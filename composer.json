@@ -1,0 +1,19 @@
+{
+    "name": "root/pdf-extract",
+    "authors": [
+        {
+            "name": "MaxAskill",
+            "email": "perezmelvin74@gmail.com"
+        }
+    ],
+    "require": {
+        "smalot/pdfparser": "^2.7",
+        "phpoffice/phpspreadsheet": "^1.29",
+        "guzzlehttp/guzzle": "^7.8"
+
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+
+
+}
